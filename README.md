@@ -32,3 +32,5 @@ WEB-R
 
 ISP(apt-cdrom add
 apt install -y network-manager bind9 chrony)
+
+nmtui(con 3 - 256 con 2 - 224 con 1 - 192)
